@@ -1,0 +1,23 @@
+.pic-list {
+    margin-bottom: 30px;
+
+}
+
+.pic-list img {
+    width: 150px;
+    height: 300px;
+    float: left;
+}
+
+.picinfo {
+    float: left;
+    margin-left: 15px;
+    width: calc(100% - 365);
+}
+
+.pic-title {
+    font-size: 26px;
+    font-weight: bold;
+    margin-top: 80px;
+    float: left;
+}

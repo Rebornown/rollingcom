@@ -1,0 +1,53 @@
+.main-box {
+    padding: 30px;
+}
+
+.main-box form {
+    float: left;
+}
+
+.main-box form input {
+    width: 400px;
+    border: 1px solid #ddd;
+    padding: 10px 15px;
+    display: block;
+}
+
+.main-box form textarea {
+    width: 400px;
+    border: 1px solid #ddd;
+    padding: 10px 15px;
+    display: block;
+    margin-bottom: 15px;
+}
+
+.main-box form textarea {
+    height: 200px;
+    max-width: 400px;
+}
+
+.main-box form button {
+    width: 100px;
+    height: 30px;
+    border: 1px solid #999;
+    cursor: pointer;
+}
+
+.main-box form button[type="submit"] {
+    background-color: #000;
+    color: #fff;
+
+}
+
+.main-box form button[type="reset"] {
+    background-color: #dddddd;
+    color: #fff;
+
+}
+
+.map {
+    width: 400px;
+    height: 400px;
+    background-color: rgb(79, 81, 244);
+    float: right;
+}
